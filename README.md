@@ -1,7 +1,9 @@
 # Dmytro Liashenko
-Quality Assurance Engineer 
+Quality Assurance Engineer
+Aim: the position of QA Engineer
 
-![img_2.png](img_2.png)
+Summary:
+I’m results-oriented quality assurance engineer with 2 years expertise in an agile development environment. Responsible for many releases for mobile and web applications which are successfully used by millions of people in the various domains such as medical, transportation, entertainment, education and professional.
 
 
 
